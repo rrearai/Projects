@@ -1,2 +1,2 @@
 # Projects
-A repository for my code projects
+A repository for Thariq Afriansyah's code projects
